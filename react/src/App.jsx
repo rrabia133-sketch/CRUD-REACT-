@@ -6,6 +6,7 @@ import Add from "./pages/add";
 import Update from "./pages/update";
 function App() {
   return (
+    // this is main page
     <div className="App">
       <BrowserRouter>
         <Routes>
