@@ -1,0 +1,15 @@
+/* Add.css */
+
+.card-header-gradient {
+  background: linear-gradient(90deg, #6f42c1, #20c997);
+}
+
+.submit-btn {
+  background: linear-gradient(to right, #ff6b6b, #f06595);
+  color: #fff;
+  border: none;
+}
+
+.card-body-bg {
+  background-color: #f8f9fa;
+}
